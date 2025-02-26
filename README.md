@@ -23,16 +23,6 @@ Tech:
 Activity:
 
 ### Improvements including performance ^
-
-
-- - - 
-
-   ___   _ _   
-  / __|_| | |_ 
- | (__|_  .  _|
-  \___|_     _|
-        |_|_|   
-  
                       
 <!--
 **GimpG1/GimpG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
